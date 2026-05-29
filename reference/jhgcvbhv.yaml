@@ -4,6 +4,7 @@ x-stoplight:
 info:
   title: jhgcvbhv
   version: '1.0'
+  description: moni
 servers:
   - url: 'http://localhost:3000'
 paths:
